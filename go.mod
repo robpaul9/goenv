@@ -1,4 +1,4 @@
-module github.com/robpaul9/pkg/goenv
+module github.com/robpaul9/goenv
 
 go 1.17
 
